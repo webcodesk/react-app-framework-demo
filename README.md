@@ -1,2 +1,1 @@
-# react-app-framework-demo
-React Application Framework for demonstration purposes
+# React Application Framework for demonstration purposes

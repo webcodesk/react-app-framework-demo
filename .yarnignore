@@ -1,0 +1,11 @@
+.git
+.idea
+build
+node_modules
+public
+src
+gulpfile.js
+yarn.lock
+package-lock.json
+*.iml
+*.log
