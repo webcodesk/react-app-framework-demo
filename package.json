@@ -40,7 +40,7 @@
     "react-dom": "16.11.0"
   },
   "scripts": {
-    "dist": "cross-env NODE_ENV=development gulp --gulpfile ./gulpfile.js build",
+    "dist": "cross-env NODE_ENV=development gulp --gulpfile ./gulpfile.js build"
   },
   "browserslist": [
     ">0.25%",
