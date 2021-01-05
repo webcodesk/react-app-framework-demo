@@ -10,7 +10,7 @@
   "license": "MIT",
   "description": "React App Framework for demonstration purposes",
   "dependencies": {
-    "axios": "0.19.2",
+    "axios": "0.21.1",
     "history": "4.10.1",
     "localforage": "1.7.3",
     "lodash": "4.17.15",
